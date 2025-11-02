@@ -1,6 +1,6 @@
 {
-    "name": "ypsi_calendar",
-    "short_name": "ypsi_calendar",
+    "name": "socioindex",
+    "short_name": "socioindex",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
